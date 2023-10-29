@@ -15,13 +15,13 @@ The plot never really felt like it got more interesting than that synopsis. Your
 
 ![Sweet Death Cover](/assets/img/1/kie.png){: width="250" height="313" .left}
 
-Then again, I couldn't think at all. I was barely keeping my eyes open. As ridiculous as it sounds, I'd actually spent the night before reading a completely different novel -- Hojo Kie's *"Delicious Death" for Detectives*. *That* book certainly has a *lot* more going on. 
+Then again, I couldn't think at all. I was barely keeping my eyes open. As ridiculous as it sounds, I'd actually spent the night before reading a completely different novel -- Kie Hojo's *"Delicious Death" for Detectives*. *That* book certainly has a *lot* more going on. 
 
 You got a bunch of detectives trapped and forced to play a murder mystery VR game, you got a real-life killer among them picking off people who give incorrect solutions to those crimes, and you got a protagonist who is in a unique position: being the one forced to come up with and execute the virtual crimes. If the detectives solve them, he dies, but if they don't try to solve them, everyone dies. 
 
 The only hope, therefore, is for the protagonist to stop the real-life murderer and put an end to the game before he's caught.
 
-This is the third Hojo Kie book in the Ryuusen family series. I haven't read the previous two; this is just the first one of the bunch I came across. I'm more than happy to go back and read the rest, though, because this was pretty great. 
+This is the third Kie Hojo book in the Ryuusen family series. I haven't read the previous two; this is just the first one of the bunch I came across. I'm more than happy to go back and read the rest, though, because this was pretty great. 
 
 It's definitely a variation of a Death Game scenario I hadn't seem before. The VR setting is used to the maximum, leading to some really original tricks. I will leave this point understated, 
 
