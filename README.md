@@ -1,6 +1,6 @@
 # Last Locked Room
 
-This is the repository for the Last Locked Room personal website.
+This is the repository for The Last Locked Room personal website.
 
 ## License
 
