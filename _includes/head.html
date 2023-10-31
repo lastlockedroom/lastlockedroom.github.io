@@ -37,11 +37,11 @@
     {% endif %}
   
     {{ seo_tags }}
-
+    
     {% unless page.image %}
-        <meta property="og:image" content="{{ site.card_img }}" />
+        <meta property="og:image" content="{{ site.url }}{{ site.card_img }}" />
         <meta name="twitter:card" content="{{ page.twitter.card | default: site.twitter.card | default: "summary_large_image" }}" />
-        <meta property="twitter:image" content="{{ site.card_img }}" />
+        <meta property="twitter:image" content="{{ site.url }}{{ site.card_img }}" />
     {% endunless %}
   
     <title>
