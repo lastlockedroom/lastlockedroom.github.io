@@ -1,5 +1,8 @@
 # The Site Configuration
 
+# Custom additions.
+card_img: /assets/img/cover.png # Default cover image.
+
 # Import the theme
 theme: jekyll-theme-chirpy
 

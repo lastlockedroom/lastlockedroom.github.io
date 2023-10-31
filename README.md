@@ -2,6 +2,12 @@
 
 This is the repository for The Last Locked Room personal website.
 
+## Running Locally
+
+```bash
+bundle exec jekyll s
+```
+
 ## License
 
 This work is published under [MIT][mit] License.

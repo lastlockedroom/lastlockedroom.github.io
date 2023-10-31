@@ -15,3 +15,5 @@ This is a site I've made for the purpose of cataloging all my works and maintain
 A complete list of my original works can be found [here](/original-fiction).
 
 Over the years, I've also produced a large amount of fanworks, which can be found [here](/fanworks).
+
+For this site's RSS feed, use `https://lastlockedroom.github.io/feed`.
