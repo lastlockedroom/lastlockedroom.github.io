@@ -13,7 +13,7 @@ I read *The Player on the Other Side* the next morning, while on the train back 
 
 The plot never really felt like it got more interesting than that synopsis. Your opinion of the book probably comes down to your opinion on Y's identity. I didn't think much of it -- so there you go.
 
-![Sweet Death Cover](/assets/img/1/kie.png){: width="250" height="313" .left}
+![Sweet Death Cover](/assets/img/1/kie.png){: width="250" .left}
 
 Then again, I couldn't think at all. I was barely keeping my eyes open. As ridiculous as it sounds, I'd actually spent the night before reading a completely different novel -- Kie Hojo's *"Delicious Death" for Detectives*. *That* book certainly has a *lot* more going on. 
 
@@ -49,7 +49,7 @@ I suspect you can see, Dear Reader, that there is also bad news.
 
 I have completely lost my mind.
 
-![Darkness on Wings Cover](/assets/img/1/messiah.png){: width="250" height="313" .right}
+![Darkness on Wings Cover](/assets/img/1/messiah.png){: width="250" .right}
 
 It'd started as an honest experiment, but reading Yutaka Maya's *Wings in the Dark: The Last Case of Mercator Ayu* was a gateway drug. I was hooked by the first encounter and never stopped.
 

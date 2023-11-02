@@ -25,7 +25,7 @@ But rest assured, they go out of their way to make you feel otherwise.
 
 ---
 
-![Peoples Church Cover](/assets/img/2/peopleschurch.jpg){: width="250" height="313" .left}
+![Peoples Church Cover](/assets/img/2/peopleschurch.jpg){: width="250" .left}
 
 *The People's Church Murder Case* opens with a mass suicide in the town of *Jordentown*, a religious commune in Guyana led by pastor and cult leader Jim *Jorden*. Its inhabitants, most of whom had emigrated from the States in fear of what they perceived was religious prosecution, drink a juice laced in poison. Those unwilling -- be they man or child -- are either forced to drink the poison or shot upon trying to escape into the surrounding forest.
 
@@ -63,7 +63,7 @@ Speaking of--
 
 ---
 
-![Combined Human Cover](/assets/img/2/combinedhuman.jpg){: width="250" height="313" .left}
+![Combined Human Cover](/assets/img/2/combinedhuman.jpg){: width="250" .left}
 
 Tomoyuki Shirai's novel, *Tokyo Combined Corpse (AKA HONESTMAN)* starts with a woman trying to insert her entire body into a man's anus as a means of procreation.
 
@@ -97,7 +97,7 @@ The book will probably haunt me for a long time.
 
 ---
 
-![Combined Human Cover](/assets/img/2/nobodydied.jpg){: width="250" height="313" .left}
+![Combined Human Cover](/assets/img/2/nobodydied.jpg){: width="250" .left}
 
 Honestly, everything I've just gone through almost makes *And Then They Never Die* feel tame, even though it's probably the most brutal in terms of deaths in comparison to the previous two.
 
