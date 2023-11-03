@@ -95,12 +95,12 @@ Speaking of getting things, I'm assuming you've already solved the mystery of th
 
 Of course, the answer is simple.
 
-The victim was sealed into a small space with thousands of copies of *The Six Tonkatsu* used to build the walls around the victim.
+The victim was sealed into a small space, with thousands of copies of *The Six Tonkatsu* used to build the walls around him.
 
 The victim was drugged (these drugs were not found in his system, because the victim would've gotten it out of his system by the time he was found) and sealed in with the books completely. The entire house was completely covered -- from the living room to, to the kitchen, to the bathroom -- everything. Thus, it was  impossible for the victim to push his was out. Pulling out one of the books to collapse the stacks also didn't work, because they were wedged in so tightly. The victim was short, so he couldn't even try to punch into the ceiling or start pulling the books from the top of the walls of books surrounding him.
 
 The culprit had intentionally left the victim writing utensils. He had no issue if the victim wrote down what had actually happened to him. However, as the culprit had predicted, the victim was too embarrassed to admit dying in such a stupid way, and instead cursed the books themselves.
 
-A few days later, the victim died of dehydration, the culprit returned and started dismantling the wall from the outside (he had the privilidge of having tools to slowly break through the tight wall he'd created). When he was done, he placed a glass of water next to the victim's corpse and slipped the key to the house in the victim's pocket (obviously, during the time the victim was dying, the culprit had locked the house up with the victim's key just in case someone tried stumbling into the house).
+A few days later, the victim died of dehydration, the culprit returned and started dismantling the wall from the outside (he had the privilege of having tools to slowly break through the tight wall he'd created). When he was done, he placed a glass of water next to the victim's corpse and slipped the key to the house in the victim's pocket (obviously, during the time the victim was dying, the culprit had locked the house up with the victim's key just in case someone tried stumbling into the house).
 
 As it happens, for his plan to work, the culprit had to buy thousands of copies of *The Six Tonkatsu*, thus explaining why the book sold so well.
