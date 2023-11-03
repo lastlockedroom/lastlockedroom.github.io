@@ -7,7 +7,7 @@ image:
     path: /assets/img/3/cover.png
 ---
 
-The year is 1997. The winner of the 3rd [Mephisto Prize](https://en.wikipedia.org/wiki/Mephisto_Prize) has just been published. Although the book is selling well -- *far* above expectation -- the judge competitions were facing an unprecedented level of criticism. The work in question, *Six Tonkatsu*, is positively shunned by readers -- mystery novels and general public alike. The collection of short stories within are simplistically written, feature crude and childish jokes, and can barely be considered satisfying mysteries in any sense of the word.
+The year is 1997. The winner of the 3rd [Mephisto Prize](https://en.wikipedia.org/wiki/Mephisto_Prize) has just been published. Although the book is selling well -- *far* above expectation -- the judges of the competition were facing an unprecedented level of criticism. The work in question, *Six Tonkatsu*, is positively shunned by readers -- mystery novels and general public alike. The collection of short stories within are simplistically written, feature crude and childish jokes, and can barely be considered satisfying mysteries in any sense of the word.
 
 Still, the book *is* selling and the threats *do* eventually fizzle out.
 
