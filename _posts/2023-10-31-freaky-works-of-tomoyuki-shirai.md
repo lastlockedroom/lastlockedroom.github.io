@@ -2,7 +2,7 @@
 title: "The Freaky Works of Tomoyuki Shirai"
 date: 2023-10-31
 categories: [Japanese Fiction, Tomoyuki Shirai]
-tags: [shin honkaku, tomoyuki shirai, special setting, based on true crime]
+tags: [shin honkaku, tomoyuki shirai, special setting, impossible crime, based on true crime]
 image: 
     path: /assets/img/2/cover.png
 ---

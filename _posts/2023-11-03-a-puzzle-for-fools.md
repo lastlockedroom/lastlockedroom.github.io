@@ -104,3 +104,7 @@ The culprit had intentionally left the victim writing utensils. He had no issue 
 A few days later, the victim died of dehydration, the culprit returned and started dismantling the wall from the outside (he had the privilege of having tools to slowly break through the tight wall he'd created). When he was done, he placed a glass of water next to the victim's corpse and slipped the key to the house in the victim's pocket (obviously, during the time the victim was dying, the culprit had locked the house up with the victim's key just in case someone tried stumbling into the house).
 
 As it happens, for his plan to work, the culprit had to buy thousands of copies of *The Six Tonkatsu*, thus explaining why the book sold so well.
+
+**Product Links (Amazon)**
+
+* [The Six Tonkatsu](https://amzn.asia/d/1NlThEz)
