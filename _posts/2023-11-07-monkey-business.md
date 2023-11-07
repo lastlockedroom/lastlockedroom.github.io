@@ -1,6 +1,6 @@
 ---
 title: "Monkey Business"
-date: 2023-11-06
+date: 2023-11-07
 categories: [Self-Published, James Scott Byrnside]
 tags: [james scott byrnside, self-published, impossible crime]
 image: 
@@ -67,14 +67,20 @@ For one, I liked this one quite a lot. I'd rank it somewhere above *Five Suicide
 
 While the previous three Manory books incorporated noir elements in them, I think *Monkey* is the one where I felt it truly came to the forefront. The main reason is the way it approaches its plotting and atmosphere. 
 
-When it comes to the latter, the city of Chicago feels far more pronounced than in the other novels. Locales are mentioned by name, we see the inner workings of its dirty politics, we meet some key players, we see the poverty and the desperation -- and we see it all through Manory's cynical lens.
+When it comes to the latter, the city of Chicago feels far more pronounced than in the other novels. Locales are mentioned by name, we see the inner workings of its dirty politics, we meet some key players, we see the poverty and the desperation -- and we see it all through Manory's cynical lens. The whole city gives an air of tragedy and inevitability around it. Crimes happen because they're supposed to. They're brutal because they have to be. That's what Chicago *is*. That's why the banter between Manory and Walter sticks out all the more, but in a good way. It reminds you that in all this darkness, people are ultimately just trying to live their lives.
 
 The former, though, is what makes the novel far more memorable for me. There's a lot of moving parts here -- far more than you'd think at first. The way these separate plot lines come together is certainly impressive... but not always satisfying. I don't think there's a good way to talk about some of these things without spoilers, so I'll mark that part of the discussion in ROT-13 below:
 
 > Sbe rknzcyr, gur jnl Yhyh, ure cevingr qrgrpgvir naq rira gur zbaxrl nggnpx zvqjnl vagb gur obbx ner xvaq bs whfg unaq-jnirq njnl va gur svany fgntrf bs gur obbx jnf xvaq bs n ohzzre. Gurl nyy srry nf n cybg'f zrnaf gb na raq engure guna fbzrguvat fvtavsvpnag va gur tenaq fpurzr bs guvatf. Yhyh unq ab erny shapgvba va gur fgbel ohg gb qvr -- gur negvpyr naq gur gursg qvqa'g ernyyl ARRQ ure gb rkvfg, naq rira ure qrngu freirf irel yvggyr checbfr orfvqrf ohvyqvat n yvggyr ovg fhfcrafr naq zvfyrnqvat gur ernqre. Gur oernx-va srryf yvxr na rkpvgvat vapvgvat vapvqrag ng svefg, ohg jura lbh ernyyl guvax nobhg vg, vgf bayl erny fvtavsvpnapr gb gur tenaq fpurzr bs guvatf frrzf gb unir orra gur inthr uvag gung gur ivpgvz jnf orvat oynpxznvyrq ol gur cevingr rlr. Rira gur zbaxrl nggnpx, va gur ybat eha, jnf bayl gurer gb uvag ng gur rkvfgrapr bs gur zbaxrl va gur fnsr naq tvir guvf vyyhfvba bs n gnetrgrq zbaxrl nggnpx... ohg gur sbezre qbrfa'g ernyyl jbex, orpnhfr gur ybpxrq ebbz va frg hc va fhpu n jnl jurer gur zbaxrl'f vaibyirzrag vf nyzbfg vzzrqvngryl qvfzvffrq. Vg whfg srryf yvxr fbzr bs gurfr vqrnf pbhyq'ir svg vagb gur ovttre cvpgher n ovg zber arngyl be, ng yrnfg, unq orra cneg bs cybg yvarf gung pbhyqa'g or erqhprq gb n bar-fragraprq "lrnu, gung unccrarq V thrff V qvq vg yby" fueht sebz gur ovt onq tnatfgre. Ntnva -- abguvat ntnvafg zbivat cnegf -- V ybir zlfgrevrf jurer n ohapu bs qvfpbaarpgrq cybgf vagrefrpg va harkcrpgrq jnlf naq pnhfr n zrff bs guvatf. Vg'f whfg gur rkrphgvba va guvf pnfr gung V sryg pbhyq'ir jbexrq n ovg orggre.
 {: .prompt-warning }
 
-I think the idea behind the locked room is, on the whole,  good. There's a lot of little seeds thrown throughout the story designed to throw you off-track on what the whole scheme actually is. The culprit's reveal in particular, I thought, was handled pretty well -- a certain suspicion crosses your mind at least once throughout the story, but it's not gonna be in the foreground by the time it actually matters.
+I think the idea behind the locked room is, on the whole,  good. I won't go into *too* much detail on it because it happens about midway into the book, but rest assured that the room is sufficiently locked. And the victim -- after being pieced together -- established as most certainly murdered.
+
+The book even comes with a locked room lecture!
+
+I'm getting a bit tired of those, but the book more than makes up for it by providing entertaining mini-locked-room solutions Manory uses to illustrate the different types. I particularly liked the one with the man that gets found in a locked room pierced with a trident.
+
+Going back to the actual locked room -- there's a lot of little seeds thrown throughout the story designed to throw you off-track on what the whole scheme actually is. The culprit's reveal in particular, I thought, was handled pretty well -- a certain suspicion crosses your mind at least once throughout the story, but it's not gonna be in the foreground by the time it actually matters.
 
 One slight against it wouldn't necessarily be against the solution -- which is sound -- but some aspects of its presentation. (Again, ROT-13.)
 
