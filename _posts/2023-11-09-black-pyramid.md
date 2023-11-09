@@ -4,7 +4,7 @@ date: 2023-11-09
 categories: [My Works]
 tags: [my works, short story, self-published, impossible crime]
 image: 
-    path: /assets/img/stories/blackpyramidcover.png
+    path: /assets/img/stories/blackpyramidcovercloser.png
 ---
 
 A madman claims to create a portal between a small American town and Paris -- using the Eiffel Tower. 
