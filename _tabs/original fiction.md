@@ -31,6 +31,7 @@ The short stories are generally less complex in terms of plot, but offer a far m
 
 | Name | Description | Released |
 | :---- | :----------- | ------------: |
+| [The Black Pyramid Incident](https://medium.com/@DWaM22/the-black-pyramid-incident-3d86bdc4513f) | A madman claims to create a portal between a small American town and Paris -- using the Eiffel Tower. | 2023 |
 | [(Don't) Solve My Murder](https://medium.com/@DWaM22/dont-solve-my-murder-bbd7f3024d12) | An eccentric millionaire challenges his family to kill him. | 2023 |
 | [Pandora's Box](https://medium.com/@DWaM22/pandoras-box-b7726c3902d8) | A man struggles to write a letter to a close friend, retelling the baffling theft of a painting. | 2021 |
 | [Mind Over Malice](https://medium.com/@DWaM22/mind-over-malice-cc18940afd5f) | A small town is gripped in fear over a recent string of mysterious deaths. | 2021 |
