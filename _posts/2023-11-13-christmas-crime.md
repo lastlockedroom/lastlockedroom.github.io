@@ -31,7 +31,7 @@ Incidentally, this trip was also the reason why it took me a bit longer to finis
 
 If I had to give my thoughts on *The Author is Dead*, I would say: I liked it. Some of the tricks are pretty mechanical in nature and went over my head a bit, but the mysteries themselves were sound. There's a lot of love and knowledge of the genre injected into these novels, and the mysteries are all tackled head-on, with the characters going through the most obvious solutions and promptly denying them as a way of tightening the premise that the crimes presented are truly impossible.
 
-The writing was also good. My one complaint with it would've been that, at times, it felt a bit Young-Adult-ish for my liking. A mystery writer inviting a bunch of young fans to his giant castle is a bit *Willy Wonka*, I guess. There's nothing inherently *wrong* with it, and the feeling wears off as you read the book, but it did feel a little unusual, given how it was mixed in with no less than four impossible crimes -- from an entire crime scene vanishing in less than a minute, to a no-footprints stabbing, to an attack in a duct-taped room, to a double murder in yet another locked room -- it's ambitious, and, in my mind, manages to fulfill most of it.
+The writing was also good. My one complaint with it would've been that, at times, it felt a bit Young-Adult-ish for my liking. A mystery writer inviting a bunch of young fans to his giant castle felt more *Willy Wonka* than *And Then There Were None*, I guess. There's nothing inherently *wrong* with it, and the feeling wears off as you read the book, but it did feel a little unusual, given how it was mixed in with no less than four impossible crimes -- from an entire crime scene vanishing in less than a minute, to a no-footprints stabbing, to an attack in a duct-taped room, to a double murder in yet another locked room... It's filled with ambition, and, in my mind, manages to fulfill most of it.
 
 ---
 
@@ -43,7 +43,9 @@ They find themselves trapped in a snowstorm, stranded on a train, when they're r
 
 It's not really hard to see where this goes. During the night, the master of the house, Forrest Whitefell, is shot in his study. The room was locked up. The weapon was nowhere to be found. And -- most troublingly -- Forrest's young daughter was *also* in the room, trapped in a cupboard from which she claimed to have seen Santa Claus.
 
-Strangely, the key is nowhere to be found, making this, technically, *not* a locked room mystery (albeit still reasonably impossible, as the door to the passage leading to the study was watched the entire time). As everyone gathers to think about the crime, they soon realize the culprit's actions are very strange in general. There's no good reason for them to go about the crime the way they did. Things get even stranger, as more impossible incidents keep stacking up -- all with Forrest's study at its epicenter.
+Strangely, the key is actually not in the room. It's not anywhere, as far as anyone was able to tell. Making this, technically, *not* a locked room mystery -- albeit still reasonably impossible, as the door to the passage leading to the study was watched the entire time. 
+
+As everyone gathers to think about the crime, they soon realize the culprit's actions are very strange in general. There's no good reason for them to go about the crime the way they did. Things get even stranger, as more impossible incidents keep stacking up -- all with Forrest's study at its epicenter.
 
 ---
 
