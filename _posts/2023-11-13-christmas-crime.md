@@ -47,7 +47,7 @@ Strangely, the key is nowhere to be found, making this, technically, *not* a loc
 
 ---
 
-On the whole, I think I actually liked the follow-up a lot more than the first one! And it's not even because of the impossible crimes! It's actually the characters that did it for me, believe it or not. 
+On the whole, I think I liked the follow-up a lot more than the first one! And it's not even because of the impossible crimes! Funnily enough, it's the characters that did it for me.
 
 Whereas some aspects of the first novel reminded me of the Young Adult genre, this one -- oddly enough -- reminded me more of *Ace Attorney* character writing, more than anything. Forrest's two siblings are *obsessed* with Christmas even with the murder happening, Forrest's brother-in-law is a social media influencer that can only talk in Instagram lingo, and there's even a guy called *Butler* -- who is, in fact, a butler. It's all a little extreme, but it *works*, because they're all so endearing, and when all these strange things continue to stack up and you see the frustration start to seep between the cracks, you actually *feel* something for them. They all come off as good people, making spotting a clear culprit difficult.
 
@@ -59,6 +59,8 @@ As for the solutions themselves, they're... okay. Some are genuinely clever, som
 
 > Juvyr Nhgube vf Qrnq unq zber zrpunavpny gevpxf, Puevfgznf Pevzrf ner zber sbphfrq ba gur pbaprcg bs zbivat cnegf -- jurer gur npgvbaf bs zhygvcyr aba-phycevg npgbef havagragvbanyyl qrrcra gur zlfgrel naq gur vzcbffvovyvgvrf. Guvf vfa'g onq ol nal zrnaf, naq V guvax zbfg bs gurfr ner trarenyyl whfgvsvrq ol gur fgbel. Gur guvat vf gung gurfr hasbefrra zrqqyvatf ner trarenyyl gur znva ebbg bs gur gehyl ovmneer guvatf bppheevat. Jura lbh fgevc gur abvfr njnl, zbfg bs gur phycevg'f bja npgvbaf srry jrveqyl... gevivny? Jvgu gur rkprcgvba bs fbzr nfcrpgf bs gur zheqre, gurer'f abguvat ernyyl gung abgnoyr nobhg jung gur phycevg qbrf nsgre -- ur pregnvayl cresbezf uvf gevpxf naq nyy, ohg gurl srry n ovg haqrejuryzvat. Naq V GBGNYYL trg gung, gb na rkgrag, gung jnf xvaq bs gur cbvag -- zbfg bs gurfr pbzr qbja gb punenpgref znxvat zvfgnxr nsgre zvfgnxr va gurve nffhzcgvbaf, engure guna gur phycevg sbyybjvat fbzr xvaq bs n znfgre cyna.  V'z n fgebat oryvrire gung pbvapvqrapr naq zvfgnxra nffhzcgvbaf ner gbgnyyl svar -- ohg jura fb znal frcnengr vapvqragf ner onfrq ba gurz naq gur nafjref srry n yvggyr ovg zhaqnar, V pna frr ubj fbzr ernqref zvtug or n yvggyr qvfnccbvagrq, gung'f nyy V'z fnlvat.
 {: .prompt-warning }
+
+Another point worth mentioning is the map of the house. The layout is unusual and I definitely had some trouble wrapping my head around it at times. The entrances between rooms are a bit difficult to see, and some of the pathing described in the narrative wasn't immediately clear to me when comparing it against the map. But you'll get used to it. It's not a huge deal.
 
 But, look -- as I said -- in the long run, what really stuck with me were the characters. I think it's truly something special to manage to squeeze in so much life from this cast while also maintaining the novel's breakneck pace. 
 
