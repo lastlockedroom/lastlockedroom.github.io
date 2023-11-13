@@ -67,3 +67,8 @@ Another point worth mentioning is the map of the house. The layout is unusual an
 But, look -- as I said -- in the long run, what really stuck with me were the characters. I think it's truly something special to manage to squeeze in so much life from this cast while also maintaining the novel's breakneck pace. 
 
 If you liked the first one, I'd say check this one out.
+
+**Product Links (Amazon)**
+
+* [The Christmas Miracle Crimes](https://a.co/d/0PPB1Un)
+* [The Author is Dead](https://a.co/d/cogNGWf)
