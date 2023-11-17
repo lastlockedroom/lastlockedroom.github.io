@@ -27,7 +27,7 @@ The jacuzzi was pretty bomb, too.
 
 Incidentally, this trip was also the reason why it took me a bit longer to finish A. Carver's *The Christmas Miracle Crimes*. I'd gotten about a third into it before I had to leave for the trip. Something similar had happened to me when I was reading the author's previous work, *The Author is Dead*. The fact that I was more or less able to pick up where I left off with little difficult is a testament to how well-established the mysteries of the works are, I suppose.
 
-![Author is Dead Cover](/assets/img/5/authorisdead.png){: width="150" .left}
+![Author is Dead Cover](/assets/img/5/authorisdead.png){: width="250" .left}
 
 If I had to give my thoughts on *The Author is Dead*, I would say: I liked it. Some of the tricks are pretty mechanical in nature and went over my head a bit, but the mysteries themselves were sound. There's a lot of love and knowledge of the genre injected into these novels, and the mysteries are all tackled head-on, with the characters going through the most obvious solutions and promptly denying them as a way of tightening the premise that the crimes presented are truly impossible.
 
@@ -35,7 +35,7 @@ The writing was also good. My one complaint with it would've been that, at times
 
 ---
 
-![Christmas Crime Cover](/assets/img/5/christmascrime.png){: width="150" .left}
+![Christmas Crime Cover](/assets/img/5/christmascrime.png){: width="250" .left}
 
 The sequel, *The Christmas Miracle Crimes*, takes place some time after. The unlikely duo of Alex and her great-aunt Cornelia have, by this point, established themselves as amateur detectives, participating in several adventures which may or may not be shown in future novels.
 
