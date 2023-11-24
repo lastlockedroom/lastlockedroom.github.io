@@ -105,6 +105,8 @@ A few days later, the victim died of dehydration, the culprit returned and start
 
 As it happens, for his plan to work, the culprit had to buy thousands of copies of *The Six Tonkatsu*, thus explaining why the book sold so well.
 
+---
+
 **Product Links (Amazon)**
 
 * [The Six Tonkatsu](https://amzn.asia/d/1NlThEz)

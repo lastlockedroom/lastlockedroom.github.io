@@ -68,6 +68,8 @@ But, look -- as I said -- in the long run, what really stuck with me were the ch
 
 If you liked the first one, I'd say check this one out.
 
+---
+
 **Product Links (Amazon)**
 
 * [The Christmas Miracle Crimes](https://a.co/d/0PPB1Un)

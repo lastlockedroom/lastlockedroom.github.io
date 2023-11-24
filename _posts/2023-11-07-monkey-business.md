@@ -93,6 +93,8 @@ I'll admit that I'm not a huge fan of the cover, though. It definitely sticks ou
 
 But, y'know. To each their own.
 
+---
+
 **Product Links (Amazon)**
 
 * [Monkey See, Monkey Murder](https://a.co/d/56A4w0n)
