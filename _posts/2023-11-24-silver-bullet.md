@@ -162,7 +162,7 @@ As always, I have hidden these thoughts in ROT-13.
 {: .prompt-warning }
 
 **Q: What's the deal with the Spear of Longinus?**
-> I don't think the spear itself matters as much per-se. It might be more relevant to the origins of this blood cult. They started from the blood of Jesus -- the most divine blood of all -- placed on the tip of a spear. This was their beginning. They have sought divine blood ever since, in hopes of a resurrection. France, at least, implies one of the culprits talking lovingly to what seems to be a dead woman. Revival might be the crux of the matter here.
+> V qba'g guvax gur fcrne vgfrys znggref nf zhpu cre-fr. Vg zvtug or zber eryrinag gb gur bevtvaf bs guvf oybbq phyg. Gurl fgnegrq sebz gur oybbq bs Wrfhf -- gur zbfg qvivar oybbq bs nyy -- cynprq ba gur gvc bs n fcrne. Guvf jnf gurve ortvaavat. Gurl unir fbhtug qvivar oybbq rire fvapr, va ubcrf bs n erfheerpgvba. Senapr, ng yrnfg, vzcyvrf bar bs gur phycevgf gnyxvat ybivatyl gb jung frrzf gb or n qrnq jbzna. Eriviny zvtug or gur pehk bs gur znggre urer.
 {: .prompt-warning }
 
 **Q: What about the double locked room(s)?**
