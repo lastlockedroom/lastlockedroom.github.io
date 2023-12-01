@@ -7,7 +7,7 @@ image:
     path: /assets/img/8/cover.png
 ---
 
-In September of 2010, *Family Guy* had its Season 9 premiere. It was a 50-minute special in which the Griffin family -- and a good portion of their town -- finds themselves trapped in a remote mansion with a murderer, a la Christie's *And Then There Were None*.
+In September of 2010, *Family Guy* had its Season 9 premiere. It was a 50-minute special in which the Griffin family -- and a good portion of their town -- finds itself trapped in a remote mansion with a murderer, a la Christie's *And Then There Were None*.
 
 I mean, the episode *is* titled *And Then There Were Fewer*.
 
