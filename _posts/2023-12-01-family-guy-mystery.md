@@ -25,7 +25,7 @@ Before I can get to what I want to talk about, though, I *do* need to recap the 
 
 ![Peter in Armor](/assets/img/8/1.png){: width="640" .center}
 
-In general, though, I won't talk about the humor. Some jokes made me chuckle, I guess. This was before Family Guy had completely given up and started padding with long unfunny ramble segments and Conway Twitty, so you might have a good time. If you can gloss over the strange amount of Jewish jokes.
+In general, though, I won't talk about the humor. Some jokes made me chuckle, I guess. This was before Family Guy had completely given up and started padding with long unfunny ramble segments and Conway Twitty, so you might have a good time. Maybe.
 
 ---
 
