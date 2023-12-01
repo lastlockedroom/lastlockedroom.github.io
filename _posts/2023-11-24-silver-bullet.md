@@ -2,7 +2,7 @@
 title: "In Search of the Silver Bullet"
 date: 2023-11-24
 categories: [Japanese Fiction, Reito Nikaido]
-tags: [reito nikaido, impossible crime]
+tags: [reito nikaido, impossible crime, closed circle]
 image: 
     path: /assets/img/7/cover.png
 ---

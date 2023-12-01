@@ -2,7 +2,7 @@
 title: "I Think Santa Killed Dad"
 date: 2023-11-13
 categories: [Self-Published, A. Carver]
-tags: [a carver, self-published, impossible crime]
+tags: [a carver, self-published, impossible crime, closed circle]
 image: 
     path: /assets/img/5/cover.png
 ---
