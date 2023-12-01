@@ -27,6 +27,8 @@ Before I can get to what I want to talk about, though, I *do* need to recap the 
 
 In general, though, I won't talk about the humor. Some jokes made me chuckle, I guess. This was before Family Guy had completely given up and started padding with long unfunny ramble segments and Conway Twitty, so you might have a good time. Maybe.
 
+(**UPDATE**: Nevermind, I was informed that the Conway Twitty gag was well-underway by this point so you're probably screwed.)
+
 ---
 
 The story opens with Peter receiving an invitation to a dinner in his honor. The sender is unknown, but Peter doesn't care -- free dinner's free dinner, right? 
