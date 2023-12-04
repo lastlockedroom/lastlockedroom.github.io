@@ -131,7 +131,7 @@ Dear Reader, I now pose the following questions to you:
 6. Would Quagmire have had the opportunity to steal Stephanie's body? When they witness her being shot, he's among the people getting in their cars and trying to escape. When everyone returns to the mansion, he's clearly seen with everyone else -- all the way up until the group finds Stephanie's missing. He would've had no opportunity to make her disappear.
 7. Pointing out this last problem would potentially answer all of the other ones, so I won't bring it up just yet. But if you've been paying attention to the recap, you should've noticed a blatant contradiction around Muriel's murder. I made sure to put in in plain view.
 
-Now, the obvious -- and correct -- answer to all these questions is: *"Dude, it's Family Guy, what are you doing? There's literally no point to any of it seriously."*
+Now, the obvious -- and correct -- answer to all these questions is: *"Dude, it's Family Guy, what are you doing? There's literally no point to taking any of it seriously."*
 
 And you would be right. But this is more fun, so for the sake of the argument, let's assume that these aren't just silly little mistakes, and that they are, in fact, *intentional* and that, from them, we can deduce **a different truth** hidden in the episode. I'll admit the first two points are relatively easy to explain away -- Diane either panicked or assumed her plan would work well enough given the in-universe loose justice system. The reason the questions are asked regardless is to demonstrate that there may be an explanation that explains these points better.
 
