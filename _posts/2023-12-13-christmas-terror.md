@@ -45,7 +45,7 @@ There was a point in my life where I looked at the many years I'd been writing a
 
 It's easy to imagine the image of an author that writes for himself -- for the very act of writing. But man, it's fucking hard to be that. The writer that disappears in *Christmas Terror* actively rejects sharing his work with the outside world and is more than happy to isolate himself -- eventually becoming *literally invisible* to Toko. But in the afterword, Sato himself reflects how he can't relate to that character. It's an idealized image -- because an author who is content with not putting anything out there is content with nobody seeing it; an author content with nobody seeing it doesn't need to deal with the awful anxiety of putting effort into creating something and then having few people see it.
 
-Of course, the nuance of this shouldn't be lost. It's not that *nobody* read Sato's works: it's that the scope and expectations of the response he *wanted* to get were so large that, when undelivered, led to hurt.
+Of course, the nuance of this shouldn't be lost. It's not that *nobody* read Sato's works: it's that the scope and expectations of the response he *wanted* (or was *expected*) to get were so large that, when undelivered, led to hurt.
 
 And look! That's not unreasonable. It's not *good*, but it's not unfamiliar. The reason I write is for validation, too! I like seeing people reading my work. I like seeing people talk about it. I like seeing people in the community -- especially new people -- go and say "yeah, I read DWaM's stuff!" It's normal! It's fine! There's nothing wrong with wanting people to read and like your work!
 
@@ -69,7 +69,7 @@ You write about the only thing on your mind:
 
 ---
 
-I'd like to commend the translation team for including an interview with Sato that took place some time after the book's release. It effectively serves as an epilogue the original story never had, showing that life, in the end, went on. Sato wanted to stop -- and did stop. But eventually, he started back up again. He moved past this low point. He learned to struggle back.
+I'd like to commend the translation team for including an interview with Sato that took place some time after the book's release. It effectively serves as an epilogue the original story never had, showing that life, in the end, went on. Eventually, he started back up again. He moved past this low point. He managed to struggle back.
 
 You could call it a part of the process. I'd call it a part of growing up. To understand what being an artist *actually* means to you and reconciling it with what you *want* it to mean to you.
 
