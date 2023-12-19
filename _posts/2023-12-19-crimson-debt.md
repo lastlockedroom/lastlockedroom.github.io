@@ -1,5 +1,5 @@
 ---
-title: "Local Lab Rat Solves Mass Murder"
+title: "Local Lab Rat Solves a Mass Murder"
 date: 2023-12-19
 categories: [Games, Themis]
 tags: [themis, spoilers, closed circle, impossible crime]
