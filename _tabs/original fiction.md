@@ -17,7 +17,7 @@ My novels and novellas. Size-wise, most of them are between 40-60K words, making
 
 | Name | Description | Released |
 | :---- | :----------- | ------------: |
-| **The Gospel of V** | Two editors try to unravel a mystery writer's latest manuscript -- one he'd written right before he disappeared. | Coming Soon |
+| The Gospel of V ([KINDLE](https://a.co/d/cOm560V) **/** [PAPERBACK](https://a.co/d/epwjeoA)) | Two editors try to unravel a mystery writer's latest manuscript -- one he'd written right before he disappeared. | 2023 |
 | [An Odyssey to the Castle of Vampires](https://dwam.itch.io/an-odyssey-to-the-castle-of-vampires) | A desperate search for a town of immortals sparks a chain of impossible murders. A massive-scale mystery spanning across decades. | 2023 |
 | [The Four Fiends of Niflheim](https://dwam.itch.io/the-four-fiends-of-niflheim) | A mansion in the middle of a frozen lake is the stage of a strange summong ritual. The ritual goes horribly wrong, raising the curtain on a series of grizzly and inexplicable murders. | 2020 |
 | [Hear the Devil Sing](https://dwam.itch.io/hear-the-devil-sing) | A man murdered on New Year's Eve in 1999 returns to life 20 years later to solve his own murder. | 2020 |
