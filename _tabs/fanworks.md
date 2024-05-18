@@ -60,3 +60,18 @@ I've also written some non-interactive stories taking place in the Ace Attorney 
 | :---- | :----------- | ------------: |
 | [Blowfish](https://archiveofourown.org/works/29487771) | Set several years into the future, a wisened but uncompromising Athena is thrust into investigating one of her mentor's past cases. What *really* happened at Tres Bien? | 2021 |
 | [The Showstopper](https://archiveofourown.org/works/29613429) | After being fired from the Gramarye Troupe, Mr. Reus sets upon the journey that will shape the man he becomes over a decade later. **(Contains Spirit of Justice spoilers!)** | 2020 |
+
+# Doki Doki Literature Club
+
+Perhaps the oddest of the bunch. A story about about joining a [literature club](https://ddlc.moe/) full of anime girls that eventually takes a dark turn. Healthy dose of genre trope deconstruction and good old fashioned meta-narrative.
+
+The stories assume -- and basically require -- **that the reader has played the original game**.
+
+## Mods
+
+Due to Team Salvato's IP Restrictions, fan-games relying on original assets are required to be made as mods to the original game instead of standalone releases. Make sure you have the [original game](https://ddlc.moe/).
+
+| Name | Description | Released |
+| :---- | :----------- | ------------: |
+| [Clay God](https://www.reddit.com/r/DDLCMods/comments/1acnmud/comment/kjve48t/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) | She tells you she's recently gotten a hobby -- fortune telling. She offers to give you a tarot reading. The cards are laid out on the table. You're asked to choose. Each one holds a piece of the puzzle: What is this world? What's different about it? Why is she here? Why are you here? | 2024 |
+| [Before the Needle Lifts](https://www.reddit.com/r/DDLCMods/comments/1b8zgoa/comment/ktsefv4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) | You and your girlfriend Sayori investigate a series of strange disappearances around your town.  | 2024 |
