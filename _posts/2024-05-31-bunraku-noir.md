@@ -67,7 +67,7 @@ And the more we turn away, the lonelier we feel. "If I can't make sense of this,
 
 Over time, the delusion becomes more comfortable.
 
-This thought led me to think about *Bunraku Noir* after all this time. Because that's its main theme, I'd say: loneliness. Members of its main cast all share the trait and deal with it in their own destructive ways. Some lose themselves in their comfortable delusions completely. Others try to escape it.
+All this got me thinking about *Bunraku Noir* again. Because that's fundamentally its main theme: loneliness. Members of its main cast all share the trait and deal with it in their own destructive ways. Some lose themselves in their comfortable delusions completely. Others try to escape it.
 
 But you can't escape yourself. You're not supposed to. Escape is short-lived.
 
