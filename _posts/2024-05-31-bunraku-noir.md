@@ -53,7 +53,9 @@ Last week, I was in Stockholm for a business trip. Everyone kept telling us it's
 
 The sun sets at 10 PM and rises by 3 AM. I know that, because I usually passed out at around 10 after a long day of walking and kept snapping awake at 3:45 in the morning (almost always on the dot. Another sign?). It's an odd feeling -- waking up in the middle of the night but seeing a bright blue sky outside.
 
-On the whole, I'd say it was good for me. As I mentioned in one of my earlier posts, the past few weeks haven't been the greatest. Nothing outwardly *bad* happened -- some stuff was bad, sure, but nothing that should've affected by the way it did. Stepping away from everything and keeping myself busy gave me some perspective.
+On the whole, I'd say it was good for me. Change of scenery was good. Hanging out with co-workers was good. Food was good.
+
+As I mentioned in one of my earlier posts, the past few weeks haven't been the greatest. Nothing outwardly *bad* happened -- some stuff was bad, sure, but nothing that should've affected by the way it did. Stepping away from everything and keeping myself busy gave me some perspective.
 
 My problem is that it's too easy for me to get tangled up in my own thoughts. I keep trying to tell a story -- my own and those of the people around me -- and make sense of it. Instead of assigning meaning to events, I keep trying to give meaning to the story itself. The more I think, the more I lose myself in the act of thinking itself.
 
