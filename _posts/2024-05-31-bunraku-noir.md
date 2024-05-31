@@ -55,7 +55,7 @@ The sun sets at 10 PM and rises by 3 AM. I know that, because I usually passed o
 
 On the whole, I'd say it was good for me. Change of scenery was good. Hanging out with co-workers was good. Food was good.
 
-As I mentioned in one of my earlier posts, the past few weeks haven't been the greatest. Nothing outwardly *bad* happened -- some stuff was bad, sure, but nothing that should've affected by the way it did. Stepping away from everything and keeping myself busy gave me some perspective.
+As I mentioned in one of my earlier posts, the past few weeks haven't been the greatest. Nothing outwardly *bad* happened -- some stuff was bad, sure, but nothing that should've affected by the way it did. Stepping away from everything and keeping myself busy gave me some perspective. Reset me a little. It didn't solve all my problems -- it didn't solve any of them, really -- but it never could've done that.
 
 My problem is that it's too easy for me to get tangled up in my own thoughts. I keep trying to tell a story -- my own and those of the people around me -- and make sense of it. Instead of assigning meaning to events, I keep trying to give meaning to the story itself. The more I think, the more I lose myself in the act of thinking itself.
 
@@ -71,7 +71,7 @@ This thought led me to think about *Bunraku Noir* after all this time. Because t
 
 But you can't escape yourself. You're not supposed to. Escape is short-lived.
 
-You can fly to Stockholm. London. Or Barcelona. Sooner or later, you'll always get back on the plane and have to fly back. The music never stopped playing -- you just paused it -- and now you have to go back and face it.
+You can fly to Stockholm. London. Or Barcelona. You can distract yourself. Reset yourself. But sooner or later, you'll always get back on the plane and have to fly back. The music never stopped playing -- you just paused it -- and now you have to go back and face it.
 
 It's not about escaping. It's about accepting. Not just who you are, but all these things we desperately fight against -- the lack of meaning, the state of the world, the day job. Only when you accept can you come to understand the things you can and can't change. You can agonize less about who you *are* or how other people see you or who you're *supposed* to be and focus on who you *want* to be. That's when the work begins.
 
