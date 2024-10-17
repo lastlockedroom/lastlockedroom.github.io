@@ -64,12 +64,29 @@ In spite of my love for mysteries, I do occasionally write outside of the genre!
 | [The Spacewoman's King](https://medium.com/@DWaM22/the-spacewomans-king-9ce8e07fb5b2) | An astronaut struggles with the aftermath of her near-death accident. | 2021 |
 | [Ancient Names](https://medium.com/@DWaM22/ancient-names-4c3308db9685) | Two people spend the night talking after seeing each other for the first time in a decade. | 2021 |
 
+# Visual Novels
+
+I've made some visual novels!
+
+| Name | Description | Released |
+| :---- | :----------- | ------------: |
+| [Late Night at the KWL](https://dwam.itch.io/late-night-at-the-kwl) | O2A2 2024 jam entry. A small visual novel about a late night at a radio station that only runs short stories. | 2024 |
+
+# Games
+
+I've made some actual game-games! Like, games, that are playable! And not just readable!
+
+| Name | Description | Released |
+| :---- | :----------- | ------------: |
+| [Death of the King](https://dwam.itch.io/death-of-the-king) | GMTK 2024 jam entry. A game about controlling a robot, inside a bigger robot, inside a bigger robot. | 2024 |
+
 # Interactive Fiction
 
 I've had the pleasure of writing a few interactive text adventures for several game jams!
 
 | Name | Description | Released |
 | :---- | :----------- | ------------: |
+| [198BREW: The Age of Orpheus](https://dwam.itch.io/198brew-the-age-of-orpheus) | IF2024 Comp entry. Fiona is gone. A man is stuck in a time loop. The Golem in the lake rots. You crave coffee. | 2024 |
 | [The Firebrand](https://dwam.itch.io/the-firebrand) | A woman sits in an interrogation room. What has she done? Navigate a difficult conversation to find the truth. **An entry for Ludum Dare 45 Game Jam in collaboration with [selkie](https://selkkie.itch.io/)!** | 2019 |
 | [A Journey to Omega Station](https://dwam.itch.io/a-journey-to-omega-station) | Help a woman that doesn't want to be found come home by entering an alternate dimension. Winner of the **Ectocomp 2019 Game Jam!** | 2019 |
 | [The Vault](https://dwam.itch.io/the-vault) | The task is simple. All you have to do is leave the vault. Any means will do. Provided you abide by certain conditions. **An entry for Ludum Dare 43 Game Jam!** | 2019 |
