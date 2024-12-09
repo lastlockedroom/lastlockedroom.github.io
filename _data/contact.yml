@@ -4,8 +4,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/dwam22.bsky.social"
 
 - type: itchio
   icon: "fa-brands fa-itch-io"
