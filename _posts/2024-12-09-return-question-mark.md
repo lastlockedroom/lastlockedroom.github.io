@@ -7,7 +7,7 @@ image:
     path: /assets/img/18/cover.png
 ---
 
-Things always work out. As it happens, things today led me to work out to writing an update on the blog!
+Things always work out. As it happens, things today worked out in a way that led me to updating the blog! Finally!
 
 But I was, I suppose, a victim of circumstance even before today.
 
@@ -91,3 +91,5 @@ Thirdly, one of my co-workers today stopped me to say he read *Gospel of V* and 
 Finally, one of the leads at that workshop from September texted me today and asked "so, what's up? seen you haven't updated your blog". So I figured I might as well.
 
 Post-finally, I've also completed and nearing release of a small mystery VN that I'll be posting about here shortly. So, stay tuned for that!
+
+**P. S.**: I am no longer on Twitter. For all my social media ramblings/shitposting/short-term updates, you can find me on [BlueSky](https://bsky.app/profile/dwam22.bsky.social).
