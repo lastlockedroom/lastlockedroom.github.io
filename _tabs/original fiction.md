@@ -70,6 +70,7 @@ I've made some visual novels!
 
 | Name | Description | Released |
 | :---- | :----------- | ------------: |
+| [Murder Gods Play Pachinko](https://dwam.itch.io/murder-gods-play-pachinko) | An anti-mystery. A group of friends reunite following their friend's mysterious death. | 2024 |
 | [Late Night at the KWL](https://dwam.itch.io/late-night-at-the-kwl) | O2A2 2024 jam entry. A small visual novel about a late night at a radio station that only runs short stories. | 2024 |
 
 # Games
