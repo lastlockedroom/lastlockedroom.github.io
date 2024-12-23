@@ -31,7 +31,7 @@ The short stories are generally less complex in terms of plot, but offer a far m
 
 | Name | Description | Released |
 | :---- | :----------- | ------------: |
-| [Lost Inside a Box Inside a Box Inside a Box](https://medium.com/@DWaM22/lost-inside-a-box-inside-a-box-inside-a-box-5c2e9792bdf4) | A group of friends receive a strange manuscript from their missing friend -- about them receiving a strange manuscript from their missing friend. | 2024 |
+| [Lost Inside a Box Inside a Box Inside a Box](https://medium.com/@DWaM22/lost-inside-a-box-inside-a-box-inside-a-box-5c2e9792bdf4) | A group of friends receives a strange manuscript from their missing friend -- about them receiving a strange manuscript from their missing friend. | 2024 |
 | [Death of "Death of Jezebel"](https://medium.com/@DWaM22/death-of-death-of-jezebel-789065e67939) | The original hand-written draft of Christianna Brand's *Death of Jezebel* is destroyed by a flying black knight. | 2023 |
 | [The Black Pyramid Incident](https://medium.com/@DWaM22/the-black-pyramid-incident-3d86bdc4513f) | A madman claims to create a portal between a small American town and Paris -- using the Eiffel Tower. | 2023 |
 | [(Don't) Solve My Murder](https://medium.com/@DWaM22/dont-solve-my-murder-bbd7f3024d12) | An eccentric millionaire challenges his family to kill him. | 2023 |

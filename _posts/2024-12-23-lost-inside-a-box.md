@@ -9,7 +9,7 @@ image:
 
 What is it about people disappearing and leaving strange manuscripts behind?
 
-A group of friends find themselves at a loss when their friend, Cooper, sends them a story starring them -- about them receiving a story starring them.
+A group of friends finds itself at a loss when their friend, Cooper, sends them a story starring them -- about them receiving a story starring them.
 
 The unusual story features mysterious plane tickets, tragedies, strange codes and even -- murder. Soon, the oddities seep into the real world in unexpected and horrifying ways.
 
