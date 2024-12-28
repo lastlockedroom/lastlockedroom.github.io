@@ -50,7 +50,7 @@ And I happen to agree: it *is* human nature. We seek cause and effect. Even a ni
 
 There's a certain comfort in that sense in mystery stories, where we have the knowledge that an explanation behind misfortune must exist -- there is always the culprit, there is always a reasonable explanation behind there actions, and there are always clues leading to both. There's an unspoken promise that the world, when all is said and done, *makes sense*.
 
-But what happens when there's a novel that makes you doubt that? When the characters themselves are not sure if the clues they're following are really clues at all? When the world they live in *doesn't* make sense -- much lie ours -- but they actively force it to?
+But what happens when there's a novel that makes you doubt that? When the characters themselves are not sure if the clues they're following are really clues at all? When the world they live in *doesn't* make sense -- much like ours -- but they actively force it to?
 
 Those are the main themes of Hideo Nakai's *Offering to Nothingness* (or, if you will, *Offering to the Void*). I'd briefly talked about it [before](/posts/beyond-mystery). It is one of the infamous *Three Occult Mystery Novels* , alongside the *Black Death Hall Murder Case* and *Dogra Magra*.
 
