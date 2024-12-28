@@ -1,8 +1,8 @@
 ---
 title: "Beyond Mystery, Beyond Truth"
 date: 2023-12-07
-categories: [Japanese Fiction, Inui Kurumi]
-tags: [inui kurumi, impossible crime, postmodern]
+categories: [Japanese Fiction, Kurumi Inui]
+tags: [kurumi inui, kenji takemoto, impossible crime, postmodern, occult mystery]
 image: 
     path: /assets/img/10/cover.png
 ---
@@ -17,7 +17,7 @@ This doesn't have anything to do with the book I'm going to talk about. But I th
 
 ---
 
-If we're approaching anything, then it is a hill. And at its base lies Takemoto Kenji's *Paradise Lost Inside a Box*.
+If we're approaching anything, then it is a hill. And at its base lies Kenji Takemoto's *Paradise Lost Inside a Box*.
 
 Japan has what are known as the *Three Occult Mystery Novels*. The first is Mushitaro Oguri's *Black Death Hall Murder Case* -- a book notorious for its extreme use of pedantry and near-unreadability (to the point where Japanese people have trouble reading it; seemingly a common problem even in some of Oguri's preceding works). The second is Kyuusaku Yumeno's *Dogura Magura* -- which tells the story of its mental patient protagonist through a series of ever-confusing records -- this is the one you're most likely to have heard of, as it *does* have a movie adaptation and is heavily referenced in the visual novel *[Hasihime of the Old Book Town](https://store.steampowered.com/agecheck/app/1039940/)*. The third is Hideo Nakai's *Offering to Nothingness* -- known for its over-the-top deduction battles between its amateur detectives.
 
@@ -59,7 +59,7 @@ Well, we certainly aren't the first to think so.
 
 ![Box Cover](/assets/img/10/box.jpg){: width="250" .left}
 
-As I've said, we're climbing a hill here. *Paradise* is just the base. The road we're actually taking is through a completely different novel -- Inui Kurumi's *Inside a Box*.
+As I've said, we're climbing a hill here. *Paradise* is just the base. The road we're actually taking is through a completely different novel -- Kurumi Inui's *Inside a Box*.
 
 As the title might suggest, it is *heavily* inspired by *Paradise* -- a downright pastiche. Both novels are about a group of mystery lovers which start getting plagued by mysterious incidents. Both novels feature a member of a group who is writing a novel that may or may not be reflecting actual events. Both novels are structured in the same way -- each chapter contains a mystery event after which the group gathers and discusses potential answers to the mystery. The crimes in both novels are primarily locked room mysteries. Both groups delve into side topics to build their solutions on.
 

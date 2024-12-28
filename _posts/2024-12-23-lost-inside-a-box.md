@@ -21,7 +21,7 @@ Where does the point of discontinuity lie?
 
 ---
 
-If you've been following my blog, you'll recognize that this is my take on what is sometimes known to be the *Fourth Great Occult Mystery Novel* of Japan -- Takemoto Kenji's *Paradise Lost Inside a Box*. I've discussed the novel in more detail [here](/posts/beyond-mystery). 
+If you've been following my blog, you'll recognize that this is my take on what is sometimes known to be the *Fourth Great Occult Mystery Novel* of Japan -- Kenji Takemoto's *Paradise Lost Inside a Box*. I've discussed the novel in more detail [here](/posts/beyond-mystery). 
 
 When I say 'my take' I mostly refer to taking inspiration in the same way Inui Kurumi took for his own homage, *Inside a Box*. The mechanics of the story are entirely different and there are no spoilers for either of the works. It's simply an exercise in metafiction.
 
