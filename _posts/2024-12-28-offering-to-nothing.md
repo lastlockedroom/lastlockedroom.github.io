@@ -11,7 +11,7 @@ For all my intelligence, and all my rationality, and all my skepticism, I must c
 
 I think we are all afforded some level of superstition. One that a lot of people in my life hold is that I had been blessed with an incredible amount of luck. 
 
-I'm forced to admit: it's true.
+It's probably true.
 
 It started at an early age. Although I was generally considered a "smart kid", there were quite a few tests and exams in which I -- unexpectedly -- had incorrect answers marked as correct; even when people who had given the same wrong answer did not. In my teenage years, I passed my driver's exam, in spite of not being asked to do any parking, 3-point turns, or really anything besides driving around streets for 10 minutes. I got my first job ever by, on a whim, showing up to a meetup hosted by my university and -- quite randomly, by sheer chance -- checking my inbox months later and seeing that one of the people I met there had sent me an e-mail asking me to come along (in spite of having no real qualifications). This, incidentally, is the job I am still at, five years later.
 
@@ -42,7 +42,7 @@ For the record -- the curse maintains its force even while listening to the Japa
 
 ---
 
-Now, you, the outsider, my Dearest Reader, can easily explain this as basic human nature: assigning meaning to external events. Misfortune can never come alone -- there must be caused and effect. In the same sense that Christianity brings meaning to suffering, I am assigning meaning to my suffering to the man who starred in the 2023 bomb of a TV series known as *The Idol*.
+Now, you, the outsider, my Dearest Reader, can easily explain this as basic human nature: assigning meaning to external events. Misfortune can never come alone -- there must be cause and effect. In the same sense that Christianity brings meaning to suffering, I am assigning meaning to my suffering to the man who starred in the 2023 bomb of a TV series known as *The Idol*.
 
 And I happen to agree: it *is* human nature. We seek cause and effect. Even a nihilist will inevitably stumble and assign meaning to the meaningless.
 
