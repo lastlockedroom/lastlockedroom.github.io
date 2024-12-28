@@ -17,7 +17,7 @@ It started at an early age. Although I was generally considered a "smart kid", t
 
 One time, an electrician showed up and informed me that one of the outlets in my bathroom was not properly grounded -- possibly for years. The fact that neither I nor my roommate had ever been electrocuted was nothing short of a small miracle.
 
-You could trace my luck even further back: after all, I was born in a stable home, had good education, am not in debt, and am surrounded by friends and family who love me. Even as something as this -- being able to post online and having a small enough audience that reads is something worth considering lucky.
+You could trace my luck even further back: after all, I was born in a stable home, had good education, am not in debt, and am surrounded by friends and family who love me. Even something as this -- being able to post online and having a small enough audience that reads is something worth considering lucky.
 
 I was born under a lucky star, as they say.
 
@@ -64,7 +64,7 @@ Oh, wait a minute. But, uh, the brother was actually writing a mystery novel at 
 
 Oh, hang on. There's also more. Apparently the family had experienced a great loss in the Hiroshima blast. Could one of their relatives have survived and decided to exact vengeance upon the family?
 
-Or, wait. No, no. There's something going on with the strange uncle staying with the three brothers. He appears to be trying to get a hold of the family fortune -- a collection of emeralds-- through his newborn child. His plan must be to pick the brothers off one by one.
+Or, wait. No, no. There's something going on with the strange uncle staying with the three brothers. He appears to be trying to get a hold of the family fortune -- a collection of emeralds -- through his newborn child. His plan must be to pick the brothers off one by one.
 
 Or, hm. Actually, now that I think about it, there was a strange mark on the brother's back in the shape of a cross. It appears he was into masochism and that he might've been killed as part of a secret rendezvous with his lover.
 
