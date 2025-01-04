@@ -35,6 +35,8 @@ However, the next morning, they find that their host has disappeared. The manusc
 
 Although the students theorize on the disappearance, they soon find they're somewhat limited in how far they can take it -- they're certain the disappearance is tied to the solution of the "Guess the Culprit" mystery -- but what's the nature of the connection? The problem statement, after all, had been read -- what in the story's *solution* troubled someone to make the host disappear? Did the host leave on their own?
 
+There's some other minor questions present throughout. Why, for instance, do all of the characters in the manuscript have fictional names except one person, that has the same name as one of the real-world students? Are they supposed to figure out who in the manuscript corresponds to whom?
+
 ![Cover](/assets/img/21/notamystery.png){: width="250" .left}
 
 I think it's a bit difficult to explain the title without talking about the way it plays out, but *This is not a Mystery* does set itself apart from a traditional mystery novel in a lot of other ways. 
