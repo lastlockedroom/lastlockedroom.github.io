@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
+![Cover](/assets/img/cover.png)
+
 Welcome to The Last Locked Room!
 
 I'm H. M. Faust (also known as **DWaM**), a mystery writer specializing in coming up with stories featuring *impossible crimes*. Whether it's a murder happening in a room that was locked from the inside, or an impossible disappearance, or someone being killed in an open field with no trace of the culprit's footprints, or just plain bizarre phenomena -- I've done it all.
